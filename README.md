@@ -7,7 +7,8 @@ I am most skilled and comfortable using JavaScript, Typescript.
 ### My Products link 
 - react-hooks-time-limit: https://github.com/shu20031026/react-hooks-time-limit
 - my-cheatsheet: https://github.com/shu20031026/my-cheatsheet
-- Twippy: https://github.com/Conken-NitKit/spino-app　https://github.com/Conken-NitKit/spino-api
+- Twippy(frontend): https://github.com/Conken-NitKit/spino-app
+- Twippy(backend): 　https://github.com/Conken-NitKit/spino-api
 - MagicalDiary: https://github.com/Conken-NitKit/MagicalDiary
 - うちゅいったー | 宇宙時代のSNS: https://github.com/Conken-NitKit/uchuitter
 
