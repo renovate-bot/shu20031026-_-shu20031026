@@ -31,6 +31,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 #### Web Backend
 - Node.js
 - Express
+- Go
 
 #### other
 - Firestore
