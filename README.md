@@ -15,6 +15,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 - MagicalDiary: https://github.com/Conken-NitKit/MagicalDiary
 - うちゅいったー | 宇宙時代のSNS: https://github.com/Conken-NitKit/uchuitter
 
+- 技術書の虫 バックエンド: https://github.com/hackz-hackathon-giganoto/team-l
 ### Contribute
 - onsen* (銭湯紹介ページ): https://on-sen.jp/sento/1
 
