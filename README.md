@@ -11,11 +11,10 @@ I am most skilled and comfortable using JavaScript, Typescript.
 - react-hooks-time-limit: https://github.com/shu20031026/react-hooks-time-limit
 - my-cheatsheet: https://github.com/shu20031026/my-cheatsheet
 - Twippy(frontend): https://github.com/Conken-NitKit/spino-app
-- Twippy(backend): 　https://github.com/Conken-NitKit/spino-api
 - MagicalDiary: https://github.com/Conken-NitKit/MagicalDiary
 - うちゅいったー | 宇宙時代のSNS: https://github.com/Conken-NitKit/uchuitter
-
 - 技術書の虫 バックエンド: https://github.com/hackz-hackathon-giganoto/team-l
+
 ### Contribute
 - onsen* (銭湯紹介ページ): https://on-sen.jp/sento/1
 
