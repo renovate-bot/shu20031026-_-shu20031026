@@ -30,8 +30,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 - Gatsby.js
 
 #### Web Backend
-- Node.js
-- Express
+- Node.js(expless)
 - Go
 
 #### other
