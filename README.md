@@ -30,7 +30,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 
 #### Web Backend
 - Node.js(expless)
-- Go
+- Go(echo, gorm)
 - MySQL
 
 #### other
