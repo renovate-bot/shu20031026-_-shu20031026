@@ -21,7 +21,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 ### Technology Stack
 #### Web Frontend
 - HTML
-- CSS
+- CSS(styled-component, emotion)
 - JavaScript
 - TypeScript
 - React.js
