@@ -3,8 +3,8 @@
 
 Hello everyone!🚀
 
-I am 4th year College of Technology student.
-I specialize in making web application.
+I am 4th year College of Technology student.<br/>
+I specialize in making web application.<br/>
 I am most skilled and comfortable using JavaScript, Typescript.
 
 ### My Products link 
