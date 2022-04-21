@@ -5,7 +5,7 @@ I am 4th year College of Technology student.<br/>
 I specialize in making web application.<br/>
 I am most skilled and comfortable using JavaScript, Typescript.
 
-### My Products link 
+### My Products
 - react-hooks-time-limit: https://github.com/shu20031026/react-hooks-time-limit
 - my-cheatsheet: https://github.com/shu20031026/my-cheatsheet
 - Twippy(frontend): https://github.com/Conken-NitKit/spino-app
