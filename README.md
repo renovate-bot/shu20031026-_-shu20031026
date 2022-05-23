@@ -20,7 +20,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 #### Web Frontend
 - HTML
 - Haml
-- CSS(emotion)
+- CSS(emotion, sass)
 - JavaScript
 - TypeScript
 - React.js
