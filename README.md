@@ -8,11 +8,9 @@ I am most skilled and comfortable using JavaScript, Typescript.
 ### My Products
 #### react-hooks-time-limit
  - URL: https://github.com/shu20031026/react-hooks-time-limit
- - about: 設定した日付までのカウントダウンを行うReactカスタムフック
  - used: React, TypeScript
 #### my-cheatsheet
 - URL: https://github.com/shu20031026/my-cheatsheet
-- about: React学習時に作成したチートシートアプリ
 - used: React
 #### Twippy
 - フロントエンド(旧): https://github.com/Conken-NitKit/spino-app 
@@ -23,9 +21,12 @@ I am most skilled and comfortable using JavaScript, Typescript.
   - used: Next.js, TypeScript, Recoil, Emotion 
 - バックエンド(新): https://github.com/shu20031026/go-twippy-api
   - used: Go, echo, heroku
-#### MagicalDiary: https://github.com/Conken-NitKit/MagicalDiary
-#### うちゅいったー | 宇宙時代のSNS: https://github.com/Conken-NitKit/uchuitter
-#### 技術書の虫 バックエンド: https://github.com/hackz-hackathon-giganoto/team-l
+#### うちゅいったー | 宇宙時代のSNS
+- URL: https://github.com/Conken-NitKit/uchuitter
+- used: React, styledComponents, Three.js
+#### 技術書の虫 バックエンド
+- URL: https://github.com/hackz-hackathon-giganoto/team-l
+- used: Go, echo, docker, azure
 
 ### Contribute
 - onsen* (銭湯紹介ページ): https://on-sen.jp/sento/1
