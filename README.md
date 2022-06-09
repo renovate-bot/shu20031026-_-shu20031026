@@ -6,14 +6,26 @@ I specialize in making web application.<br/>
 I am most skilled and comfortable using JavaScript, Typescript.
 
 ### My Products
-- react-hooks-time-limit: https://github.com/shu20031026/react-hooks-time-limit
-- my-cheatsheet: https://github.com/shu20031026/my-cheatsheet
-- Twippy(frontend)(旧): https://github.com/Conken-NitKit/spino-app 
-- Twippy(Next.js)(新): (現在作成中)
-- Twippy(Backend)（新）
-- MagicalDiary: https://github.com/Conken-NitKit/MagicalDiary
-- うちゅいったー | 宇宙時代のSNS: https://github.com/Conken-NitKit/uchuitter
-- 技術書の虫 バックエンド: https://github.com/hackz-hackathon-giganoto/team-l
+#### react-hooks-time-limit
+ - URL: https://github.com/shu20031026/react-hooks-time-limit
+ - about: 設定した日付までのカウントダウンを行うReactカスタムフック
+ - used: React, TypeScript
+#### my-cheatsheet
+- URL: https://github.com/shu20031026/my-cheatsheet
+- about: React学習時に作成したチートシートアプリ
+- used: React
+#### Twippy
+- フロントエンド(旧): https://github.com/Conken-NitKit/spino-app 
+  - used: React, TypeScript, StyledComponents
+- バックエンド(旧): https://github.com/Conken-NitKit/spino-api
+  - used: Node.js, Express
+- フロントエンド(新)(作成中): https://github.com/shu20031026/twippy-next
+  - used: Next.js, TypeScript, Recoil, Emotion 
+- バックエンド(新): https://github.com/shu20031026/go-twippy-api
+  - used: Go, echo, heroku
+#### MagicalDiary: https://github.com/Conken-NitKit/MagicalDiary
+#### うちゅいったー | 宇宙時代のSNS: https://github.com/Conken-NitKit/uchuitter
+#### 技術書の虫 バックエンド: https://github.com/hackz-hackathon-giganoto/team-l
 
 ### Contribute
 - onsen* (銭湯紹介ページ): https://on-sen.jp/sento/1
