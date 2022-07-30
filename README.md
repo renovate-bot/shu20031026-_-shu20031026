@@ -50,8 +50,9 @@ I am most skilled and comfortable using JavaScript, Typescript.
 #### other
 - Firestore
 - C/C++
-- LINEBot
+- LINEBot(Liff, LineBot)
 - Azure(ACR, webApps)
+- AWS(lambda)
 
 <!--
 **shu20031026/shu20031026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
