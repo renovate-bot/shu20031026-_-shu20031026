@@ -55,7 +55,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 - LINEBot(Liff, LineBot)
 - Azure(ACR, webApps)
 - AWS(lambda)
-
+-flutter
 <!--
 **shu20031026/shu20031026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
