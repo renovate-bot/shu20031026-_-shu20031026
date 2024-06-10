@@ -3,10 +3,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=shu20031026&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-I am 4th year College of Technology student.<br/>
 I specialize in making web application.<br/>
 I am most skilled and comfortable using JavaScript, Typescript.
 
+<!--
 ### Contribute
 - onsen* (銭湯紹介ページ): https://on-sen.jp/sento/1
 
@@ -55,6 +55,7 @@ I am most skilled and comfortable using JavaScript, Typescript.
 #### 技術書の虫 バックエンド
 - URL: https://github.com/hackz-hackathon-giganoto/team-l
 - used: Go, echo, docker, azure
+-->
 
 <!--
 **shu20031026/shu20031026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
